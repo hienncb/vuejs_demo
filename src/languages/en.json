@@ -1,0 +1,19 @@
+{
+    "common": {
+        "select_lang": "language"
+    },
+    "login": {
+        "title": "Login To Website",
+        "buttons": {
+            "login": "Login"
+        },
+        "input_text": {
+            "email": "Egmail",
+            "password": "password"
+        },
+        "messages": {
+            "none_account": "None Account",
+            "register": "Register"
+        }
+    }
+}
